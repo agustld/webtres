@@ -656,7 +656,7 @@ export default function Home() {
               alt="Confirmación"
               width={150}
               height={150}
-              style={{ filter: 'brightness(0) invert(1)' }}
+              style={{ filter: 'brightness(0) saturate(100%) invert(28%) sepia(30%) saturate(2000%) hue-rotate(150deg) brightness(95%) contrast(90%)' }}
               unoptimized
             />
           </div>
